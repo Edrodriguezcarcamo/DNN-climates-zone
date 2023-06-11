@@ -26,7 +26,7 @@ The input data to the model should be entered as a dataframe containing the foll
 |Hourly_kT |Hourly clearness index |
 |Daily_KT |Daily clearness index |
 |N  |Daylight hours |
-|Solar_altitud |Solar_altitud |
+|Solar_altitud |Solar altitud |
 |AST |Apparent solar time |
 |Persistence |Persistence coefficient |
 

@@ -30,7 +30,7 @@ The input data to the model should be entered as a dataframe containing the foll
 |AST |Apparent solar time |
 |Persistence |Persistence coefficient |
 
-The persistence coefficient is a value defined by Ridley et al. in [3]. 
+The persistence coefficient is a value defined by Ridley et al. in [3]. The output of the DNN is the normalised direct normal irradiance. Therefore, it must be reconstructed with an inverse transformation. 
 
 # References
 

@@ -6,7 +6,7 @@ The aim of this code is to estimate the normal direct irradiance of solar radiat
 
 # How to use it
 
-First, it is necessary to identify to which Koppen climate zone the station to be evaluated belongs. One way to identify which zone the station belongs to is to use the code made by Chen et al. [2] at http://hanschen.org/koppen. Each DNN trained with a reference station is saved as a Tensorflow .h5 file. The .h5 file names for the respective climate zones can be found in the table below. 
+First, it is necessary to identify to which Köppen climate zone the station to be evaluated belongs. One way to identify which zone the station belongs to is to use the code made by Chen et al. [2] at http://hanschen.org/koppen. Each DNN trained with a reference station is saved as a Tensorflow .h5 file. The .h5 file names for the respective climate zones can be found in the table below. 
 
 | Climate zone | Model name |
 |-----:|-----------|
